@@ -20,4 +20,4 @@ npx ai-agent-skills install NimritaKoul/sherlock-holmes-agent-skill
 
 Once installed, simply say “Holmes, deduce…” or “Sherlock analyze…” in your agent and the skill will activate automatically.
 
-Enjoy the game is afoot!
+Enjoy, the game is On!
